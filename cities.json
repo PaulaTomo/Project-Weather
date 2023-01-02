@@ -1,0 +1,39 @@
+[
+  {
+    "country": "IT",
+    "name": "Tribiano",
+    "lat": "45.41323",
+    "lng": "9.37693",
+    "id" : "3165194"
+  },
+{
+  "country": "IT",
+  "name": "Milan",
+  "lat": "45.46427",
+  "lng": "9.18951",
+  "id" : "3173435"
+},
+
+  {
+    "country": "RO",
+    "name": "Cluj-Napoca",
+    "lat": "46.76667",
+    "lng": "23.6",
+    "id" : "681290"
+
+  },
+  {
+    "country": "RO",
+    "name": "Bucharest",
+    "lat": "44.43225",
+    "lng": "26.10626",
+    "id" : "683506"
+  },
+  {
+    "country": "RO",
+    "name": "Moisei",
+    "lat": "47.65562",
+    "lng": "24.54011",
+    "id" : "672922"
+  }
+]
