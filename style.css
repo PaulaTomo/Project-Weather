@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image:url("./img/thunderstorm-3625405_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+.card {
+    width: 100%;
+    max-width: 420px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.7);
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: rgba(51, 6, 101, 0.58);
+    color: white;
+    text-align: center;
+    z-index: 2;
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.form-select {
+    background-color: rgba(190, 182, 182, 0.25);
+    color: purple;
+    width: 200px;
+    height: 30px;
+    border:solid blueviolet;
+    border-radius: 25px ;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
+
